@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "8BoQEKZK0WJVEwfuzH45X6deym93V6ufUcPNEr3tXVWgmrgrGBiAdWuEILvhzvFUx2cx9QlRjPuPdp9hMFJkgQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projects\\JohnProjects\\MobApp\\Calculator\\Calculator.iOS\\Calculator.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.essentials\\1.5.3.2\\xamarin.essentials.1.5.3.2.nupkg.sha512",
+    "C:\\Microsoft\\Xamarin\\NuGet\\xamarin.forms\\4.8.0.1451\\xamarin.forms.4.8.0.1451.nupkg.sha512"
+  ],
+  "logs": []
+}

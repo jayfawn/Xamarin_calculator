@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:local="clr-namespace:Calculator" 
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Calculator.MainPage">
+
+    <ContentPage.Resources>
+        <StyleSheet Source="styles.css" />
+    </ContentPage.Resources>
+
+    <StackLayout VerticalOptions="StartAndExpand" BackgroundColor="White">
+        <Label HorizontalOptions="Center" Margin="50" Text="" x:Name="CounterLabel" FontSize="72" MaxLines="1"/>
+        <Grid ColumnDefinitions="1*, 1*" RowDefinitions="1*, Auto">
+
+            <Button Grid.Row="0" Grid.Column="0" Clicked="ResetClicked" Text="AC"/>
+            <Button Grid.Row="0" Grid.Column="1" Clicked="BackSpaceClicked" Text="DEL"/>
+            <Button Grid.Row="0" Grid.Column="2" Clicked="PercentClicked" Text="%"/>
+            <Button Grid.Row="0" Grid.Column="3" Clicked="DivideClicked" Text="÷"/>
+
+            <Button Grid.Row="1" Grid.Column="0"  Clicked="SevenClicked" Text="7"/>
+            <Button Grid.Row="1" Grid.Column="1" Clicked="EightClicked" Text="8"/>
+            <Button Grid.Row="1" Grid.Column="2" Clicked="NineClicked" Text="9"/>
+            <Button Grid.Row="1" Grid.Column="3" Clicked="MultiplyClicked" Text="X"/>
+
+            <Button Grid.Row="2" Grid.Column="0" Clicked="FourClicked" Text="4"/>
+            <Button Grid.Row="2" Grid.Column="1" Clicked="FiveClicked" Text="5"/>
+            <Button Grid.Row="2" Grid.Column="2" Clicked="SixClicked" Text="6"/>
+            <Button Grid.Row="2" Grid.Column="3" Clicked="SubtractClicked" Text="-"/>
+
+            <Button Grid.Row="3" Grid.Column="0" Clicked="OneClicked" Text="1"/>
+            <Button Grid.Row="3" Grid.Column="1" Clicked="TwoClicked" Text="2"/>
+            <Button Grid.Row="3" Grid.Column="2" Clicked="ThreeClicked" Text="3"/>
+            <Button Grid.Row="3" Grid.Column="3" Clicked="AddClicked" Text="+"/>
+
+            <Button Grid.Row="4" Grid.Column="0" Clicked="DecimalClicked" Text="."/>
+            <Button Grid.Row="4" Grid.Column="1" Clicked="ZeroClicked" Text="0"/>
+            <Button Grid.Row="4" Grid.Column="2" Grid.ColumnSpan="2" Clicked="EqualsClicked" Text="="/>
+
+        </Grid>
+    </StackLayout>
+</ContentPage>

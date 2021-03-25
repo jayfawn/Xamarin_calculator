@@ -1,0 +1,15 @@
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\styles.css.g.cs
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfoInputs.cache
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.AssemblyInfo.cs
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csproj.CoreCompileInputs.cache
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.dll
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\ref\Calculator.dll
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.pdb
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\Calculator.csprojAssemblyReference.cache
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.deps.json
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.dll
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\bin\Debug\netstandard2.0\ref\Calculator.dll
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\bin\Debug\netstandard2.0\Calculator.pdb
+C:\Projects\JohnProjects\MobApp\Calculator\Calculator\obj\Debug\netstandard2.0\XamlC.stamp
